@@ -1,2 +1,3 @@
-# hashfunction
-hash function 구현
+주어진 데이터의 index를 구한뒤에 해쉬테이블에 삽입한다.
+만약에 삽입할 index 위치에 이미 데이터가 존재한다면 이 데이터에 chain을 만들어서 연결한다.
+
